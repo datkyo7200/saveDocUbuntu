@@ -1,0 +1,30 @@
+{
+  "name": "vue-axios",
+  "description": "A Vue.js project",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --port 8000",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vue/cli-service": "^4.5.8",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.19.0",
+    "boxicons": "^2.0.7",
+    "vue": "^2.5.11",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.4.9"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {
+    "vue-template-compiler": "^2.4.4"
+  }
+}
